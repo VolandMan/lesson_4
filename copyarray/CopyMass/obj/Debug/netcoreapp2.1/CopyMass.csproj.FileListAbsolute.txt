@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\obj\Debug\netcoreapp2.1\CopyMass.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\obj\Debug\netcoreapp2.1\CopyMass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\obj\Debug\netcoreapp2.1\CopyMass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\obj\Debug\netcoreapp2.1\CopyMass.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\bin\Debug\netcoreapp2.1\CopyMass.deps.json
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\bin\Debug\netcoreapp2.1\CopyMass.runtimeconfig.json
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\bin\Debug\netcoreapp2.1\CopyMass.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\bin\Debug\netcoreapp2.1\CopyMass.dll
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\bin\Debug\netcoreapp2.1\CopyMass.pdb
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\obj\Debug\netcoreapp2.1\CopyMass.dll
+C:\Users\User\Desktop\Lesson_4\copyarray\CopyMass\CopyMass\obj\Debug\netcoreapp2.1\CopyMass.pdb
