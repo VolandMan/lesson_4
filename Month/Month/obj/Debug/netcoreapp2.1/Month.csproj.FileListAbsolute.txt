@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\bin\Debug\netcoreapp2.1\Month.deps.json
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\bin\Debug\netcoreapp2.1\Month.runtimeconfig.json
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\bin\Debug\netcoreapp2.1\Month.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\bin\Debug\netcoreapp2.1\Month.dll
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\bin\Debug\netcoreapp2.1\Month.pdb
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\obj\Debug\netcoreapp2.1\Month.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\obj\Debug\netcoreapp2.1\Month.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\obj\Debug\netcoreapp2.1\Month.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\obj\Debug\netcoreapp2.1\Month.AssemblyInfo.cs
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\obj\Debug\netcoreapp2.1\Month.dll
+C:\Users\User\Desktop\Lesson_4\Month\Month\Month\obj\Debug\netcoreapp2.1\Month.pdb
